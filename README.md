@@ -1,14 +1,6 @@
 # DeepStack-Security-Camera-Models
 
-- **Combined Labels:**
-  person, bicycle, car, motorcycle, bus, truck, bird, cat, dog, horse, sheep, cow, bear, deer, rabbit, raccoon, fox, skunk, squirrel, pig
-- **Combined Future Labels:**
-  coyote, possum
-
-- **General Labels:**
-  person, bicycle, car, motorcycle, bus, truck
-
-- **Animal Labels:**
-  bird, cat, dog, horse, sheep, cow, bear, deer, rabbit, raccoon, fox, skunk, squirrel, pig
-- **Animal Future Labels:**
-  coyote, possum
+- **license-plate Labels:**
+  DayPlate and NightPlate
+  
+![image](https://user-images.githubusercontent.com/36526272/146621482-3f4c27bf-51de-4b46-97ff-bf1b9f5c5e53.png)
