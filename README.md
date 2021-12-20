@@ -9,6 +9,11 @@ See below
 - **animal.pt labels:**
 See below
 
+These models were created with the help of the IP Cam Talk Community. 
+- Links to posts: 
+  - https://ipcamtalk.com/threads/ip-cam-talk-custom-community-deepstack-model.60376/
+  - https://ipcamtalk.com/threads/deepstack-lpr-custom-model.59904/
+
 ![image](https://user-images.githubusercontent.com/36526272/146625804-3b2bcc22-2d92-4528-809c-265ac8365097.png)
 ![image](https://user-images.githubusercontent.com/36526272/146621482-3f4c27bf-51de-4b46-97ff-bf1b9f5c5e53.png)
 
