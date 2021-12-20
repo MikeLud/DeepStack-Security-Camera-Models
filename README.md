@@ -21,5 +21,5 @@ These models were created with the help of the IP Cam Talk Community.
 ![image](https://user-images.githubusercontent.com/36526272/146625657-0fdc015e-d22e-4828-abd9-17eade39fde0.png)
 ![image](https://user-images.githubusercontent.com/36526272/146625686-8167cec9-bd32-45dc-aaf8-506111d9ab08.png)
 
-**combined.pt sample images:**
+**combined.pt sample image:**
 ![image](https://user-images.githubusercontent.com/36526272/146829344-81bdccba-1074-4f4f-b136-40ca4be2de64.png)
