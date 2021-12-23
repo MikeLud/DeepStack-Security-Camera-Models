@@ -4,13 +4,13 @@
   DayPlate and NightPlate
     - mAP@.50: 0.9968 mAP@.95: 0.8146
 - **combined.pt labels:**
-See below
+See table below
     - mAP@.50: 0.696 mAP@.95: 0.4871
 - **general.pt labels:**
-See below
+See table below
     - mAP@.50: 0.6774 mAP@.95: 0.4231
 - **animal.pt labels:**
-See below
+See table below
     - mAP@.50: 0.7849 mAP@.95: 0.5908
     
 These models were created with the help of the IP Cam Talk Community. 
