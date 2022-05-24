@@ -15,7 +15,7 @@ See table below
     - mAP@.50: 0.7849 mAP@.95: 0.5908
  - **dark.pt labels:**
 See table below
-    - mAP@.50: 0.7967 mAP@.95: 0.5908
+    - mAP@.50: 0.7967 mAP@.95: 0.5793
     
 These models were created with the help of the IP Cam Talk Community. 
 - Links to posts: 
