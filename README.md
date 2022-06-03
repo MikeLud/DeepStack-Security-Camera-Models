@@ -7,9 +7,9 @@
 - **combined.pt labels:**
 See table below
     - mAP@.50: 0.696 mAP@.95: 0.4871
-- **general.pt labels:**
+- **general.pt labels (includes dark models images):**
 See table below
-    - mAP@.50: 0.6774 mAP@.95: 0.4231
+    - mAP@.50: 0.7221 mAP@.95: 0.4714
 - **animal.pt labels:**
 See table below
     - mAP@.50: 0.7849 mAP@.95: 0.5908
