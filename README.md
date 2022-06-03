@@ -22,7 +22,7 @@ These models were created with the help of the IP Cam Talk Community.
   - https://ipcamtalk.com/threads/ip-cam-talk-custom-community-deepstack-model.60376/
   - https://ipcamtalk.com/threads/deepstack-lpr-custom-model.59904/
 
-![image](https://user-images.githubusercontent.com/36526272/170116066-8014ac30-35ea-403b-b398-7d4a86804eee.png)
+![image](https://user-images.githubusercontent.com/36526272/171761824-1d3252ee-0273-49b4-b74f-c9554f68e55f.png)
 
 **license-plate.pt sample images:**
 ![image](https://user-images.githubusercontent.com/36526272/146625657-0fdc015e-d22e-4828-abd9-17eade39fde0.png)
